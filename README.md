@@ -1,21 +1,19 @@
 # E-Commerce Funnel Analysis
 
 ## Overview
-SQL analysis of 300,000 e-commerce behavioral events to identify 
-conversion drop-offs and purchase funnel inefficiencies.
+SQL analysis of 300,000 e-commerce behavioral events to identify conversion drop-offs and purchase funnel inefficiencies.
 
 ## Business Question
-Where are users dropping off in the purchase journey, and what 
-actions could improve conversion?
+Where are users dropping off in the purchase journey, and what actions could improve conversion?
 
 ## Tools
-- PostgreSQL (analysis)
+- PostgreSQL (SQL analysis)
 - Power BI (visualization)
+- Tableau (visualization)
 
 ## Dataset
 E-Commerce Behavior Data from Multi-Category Store  
 Source: Kaggle (REES46 Marketing Platform)  
-Link to Kaggle dataset: https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
 Sample: 300K rows from November 2019
 
 ## Key Findings
@@ -26,10 +24,9 @@ Sample: 300K rows from November 2019
 
 ## Files
 - sql/ — all queries organized by analysis section
-- dashboard/ — Tableau dashboard preview
-- screenshots/ — PowerBI dashboard screenshot
+- dashboard/ — Tableau dashboard 
+- screenshots/ — PowerBI dashboard and Tableau dashboard screenshots
 - .pbix —  PowerBI dashboard file
 
 ## Dashboard
-- Added Screenshot of PowerBI
 - Waiting for Tableau account access issue to resolve (uploading Tableau dashboard soon)
